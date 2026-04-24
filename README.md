@@ -1,4 +1,4 @@
-# fly_brain
+﻿# fly_brain
 
 **A wave-based neuromorphic drone navigation controller inspired by the Drosophila optic lobe and bat echolocation.**
 
@@ -264,7 +264,7 @@ Validation suite: 7/7 pass/fail tests passing. 20/20 unit tests passing.
 | GPU required | Usually | Usually | No | Specialised | No |
 | RAM at drone scale | MB to GB | MB | KB | KB | 140 KB |
 
-No existing system combines continuous online Hebbian learning, physical oscillator dynamics, toroidal wave geometry, 2000 ms wave memory from circuit physics, and sub-£20 deployment simultaneously.
+No existing system combines continuous online Hebbian learning, physical oscillator dynamics, toroidal wave geometry, 2000 ms wave memory from circuit physics, and sub-Â£20 deployment simultaneously.
 
 ---
 
@@ -390,5 +390,3 @@ MIT. Free for student and research use.
 - Kirkpatrick et al. (2017). Elastic Weight Consolidation. Overcoming catastrophic forgetting in neural networks.
 - McClelland et al. (1995). Complementary learning systems. Hippocampal-neocortical memory consolidation.
 - Ito (2020). Drosophila brain atlas. Ocellus, halteres, Johnston's organ, lobula plate tangential cells.
-#   f l y _ b r a i n  
- 
