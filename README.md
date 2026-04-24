@@ -1,4 +1,4 @@
-﻿# fly_brain
+# fly_brain
 
 **A wave-based neuromorphic drone navigation controller inspired by the Drosophila optic lobe and bat echolocation.**
 
